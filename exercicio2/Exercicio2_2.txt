@@ -1,0 +1,3 @@
+O propósito é instanciar o objeto, seja em alguma variavel de referência ou somente na memória.
+Quando essa palavra é rezervado um espaço na memória para ser usada pela variavel ou objeto, sendo que esses
+espaço tem também seu endereço de memória.Está ação pode ser chamada de "Alocação de memória".
