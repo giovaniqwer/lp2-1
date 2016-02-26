@@ -1,2 +1,3 @@
-As diferenças entre o Exercicio 3 e 4,5 foi somente o acrescimo do .0 nos numeros que não ficaram "Quebrados" e o resultado 
-exato da divisão sendo 0.75.
+As diferenças entre o Exercicio 3 com variaveis do tipo inteiro e 4 e 5 com variaeis do tipo
+float e double foi somente o acrescimo do .0 nos numeros que não ficaram "Quebrados" e o resultado 
+exato da divisão sendo 0.75 que no tipo inteiro aparecia como zero.
