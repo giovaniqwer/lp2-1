@@ -1,7 +1,22 @@
- Tipo Abstrato de Dado (TAD) é uma especificação de um conjunto de dados e operações que podem ser executadas sobre esses dados. 
- Além disso, é uma metodologia de programação que tem como proposta reduzir a informação necessária para a criação/programação de
- um algoritmo através da abstração das variáveis envolvidas em uma única entidade fechada, com operações próprias à sua natureza.
- TAD, portanto, estabelece o conceito de tipo de dado divorciado da sua representação.
- Exemplo:
- Classes, o que torna as classes um tipo abstrato de dados é o fato de poder criar qualquer tipo, com qualquer
- caracteristicas que se queira, assim também como struct e etc
+ TIPO ABSTRATO DE DADOS
+ 
+Tipo Abstrato de Dado (TAD) é uma especificação de um conjunto de dados e operações que podem ser executadas sobre esses dados.
+Além disso, é uma metodologia de programação que tem como proposta reduzir a informação necessária para a criação/programação de um algoritmo através da abstração das variáveis envolvidas em uma única entidade fechada, com operações próprias à sua natureza.
+TAD, portanto, estabelece o conceito de tipo de dado divorciado da sua representação.
+Exemplo:
+Classes, o que torna as classes um tipo abstrato de dados é o fato de poder criar qualquer tipo, com qualquer
+caracteristicas que se queira, assim também como struct e etc.
+ 
+ CLASSE
+  
+Uma classe é simplesmente uma representação de um tipo de objeto; pense como uma estrutura que descreve o objeto. Assim com uma planta pode ser usada para criar diversas construções, uma única classe pode ser usada para criar quantos objetos forem necessários. Uma classe é um gabarito para a definição de objetos. Através da definição de uma classe, descreve-se que propriedades o objeto terá.
+
+OBJETO
+
+Um objeto é a instancia de uma classe
+
+MENSAGEM
+Mensagem é uma chamada a um objeto para invocar um de seus métodos, ativando um comportamento descrito por sua classe.
+
+
+
