@@ -32,19 +32,19 @@ public class Calculadora {
                 ob1.multiplicacao();
                 ob1.divisao();
       System.out.println("OBJETO 2");
-                ob1.v1=100;
-                ob1.v2=2;
-                ob1.soma();
-                ob1.subtracao();
-                ob1.multiplicacao();
-                ob1.divisao();
+                ob2.v1=100;
+                ob2.v2=2;
+                ob2.soma();
+                ob2.subtracao();
+                ob2.multiplicacao();
+                ob2.divisao();
       System.out.println("OBJETO 3");
-               ob1.v1=30;
-               ob1.v2=15;
-               ob1.soma();
-               ob1.subtracao();
-               ob1.multiplicacao();
-               ob1.divisao();
+               ob3.v1=30;
+               ob3.v2=15;
+               ob3.soma();
+               ob3.subtracao();
+               ob3.multiplicacao();
+               ob3.divisao();
     }
     
 }
