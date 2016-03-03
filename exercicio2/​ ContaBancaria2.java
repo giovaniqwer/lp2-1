@@ -40,7 +40,7 @@ public class ContaBancaria2{
 		
 
 System.out.println("OBEJTO 2: ");
-		ob2.agencia = 10; //O numero solicitado ocasionou no erro "integer number too large: 0810"
+		ob2.agencia = 810;
 		ob2.contaCorrente = 6132;
 		ob2.saldo = 42.31;
 		ob2.limiteExtra = 75.00;
