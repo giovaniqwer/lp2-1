@@ -5,8 +5,8 @@ public class Aluno {
    
     public void imprimirDadosCadastrais(){
            System.out.println("Nome: " + this.nome);
-           System.out.println("Nome: " + this.idade);
-           System.out.println("Nome: " + this.numeroMatricula);
+           System.out.println("Idade: " + this.idade);
+           System.out.println("Matricula: " + this.numeroMatricula);
     }
          
     public static void main(String[] args) {
