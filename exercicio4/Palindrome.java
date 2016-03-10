@@ -1,1 +1,2 @@
-Não vai ser hoje que você vai copiar de mim. Mas continue tentando <3
+Haha, Aposto que você já estava super feliz!
+Mas não vai ser hoje que você vai copiar de mim.Continue tentando <3
