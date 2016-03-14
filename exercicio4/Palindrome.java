@@ -24,6 +24,7 @@ public class Palindromo {
 	public void ondeEsta(){
 		System.out.println(this.inic+"-"+ this.fim);
 	}
+	//Rafaela Bárbara Custódio 3º Informática
      public static void main(String[] args) {
     		String p = args[0];
 		Palindromo obj = new Palindromo();
